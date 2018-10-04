@@ -1,6 +1,0 @@
-$ cat .gitattributes
-*.rb linguist-language=asp.net
-$ cat .gitattributes
-special-vendored-path/* linguist-vendored
-Javascript linguist-vendored=false
-
