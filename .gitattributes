@@ -3,12 +3,4 @@ $ cat .gitattributes
 $ cat .gitattributes
 special-vendored-path/* linguist-vendored
 Javascript linguist-vendored=false
-$ cat .gitattributes
-project-docs/* linguist-documentation
-docs/formatter.rb linguist-documentation=false
-$ cat .gitattributes
-Api.elm linguist-generated=true
-$ cat .gitattributes
-*.kicad_pcb linguist-detectable=true
-*.sch linguist-detectable=true
-tools/export_bom.py linguist-detectable=false
+
